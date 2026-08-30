@@ -1,11 +1,12 @@
 @import url('https://refactored-discord.github.io/themes/src/Translucent.theme.css');
 
 :root {
-    --bg-image: url('https://raw.githubusercontent.com/lolasdfgemm-lang/themer/main/Love%20this.jpg') !important;
+    --bg-image: url('https://raw.githubusercontent.com/lolasdfgemm-lang/themer/main/sea.jpg') !important;
 }
 
 body, #app-mount {
-    background-image: url('https://raw.githubusercontent.com/lolasdfgemm-lang/themer/main/Love%20this.jpg') !important;
+    background-image: url('https://raw.githubusercontent.com/lolasdfgemm-lang/themer/main/sea.jpg') !important;
     background-size: cover !important;
     background-position: center !important;
+    background-repeat: no-repeat !important;
 }
